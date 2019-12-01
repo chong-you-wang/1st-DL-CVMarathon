@@ -1,2 +1,2 @@
 # 1st-DL-CVMarathon
-online learning for deeply learning
+online learning for deep learning
